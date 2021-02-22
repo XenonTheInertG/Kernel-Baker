@@ -1,0 +1,11 @@
+# Kernel building script
+
+ This folder containing script for build a custom Android kernel.
+
+## How to use
+ - Clone your kernel codes.
+ - Clone this Folder to the kernel codes directory.
+ - Run getgcc.sh and then build.sh
+
+## https://github.com/XenonTheInertG 
+ 
