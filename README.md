@@ -1,4 +1,4 @@
-![20210315_164755-1](https://user-images.githubusercontent.com/78007167/111153404-1d7cdc00-85bc-11eb-8c88-50dd2058abbc.png)
+
 # Noble-kernel
 Custom Kernel maker for android. Super easy af.  use it &amp; GTFO
 This a dummy file,read the read.mkdn file:|
