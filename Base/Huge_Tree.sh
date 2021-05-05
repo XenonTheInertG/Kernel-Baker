@@ -1,5 +1,5 @@
 #!/bin/bash
-# 2021 (c) Noble-Kernel/XenonTheInertG
+# 2021 (c) Kernel-Baker/XenonTheInertG
 
 git clone https://github.com/LineageOS/android_packages_resources_devicesettings -b $BRNCH packages/resources/devicesettings
 git clone https://github.com/LineageOS/android_device_qcom_commom -b $BRNCH frvice/qcom/common
