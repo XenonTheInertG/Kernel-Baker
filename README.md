@@ -1,6 +1,6 @@
 ![PicsArt_03-15-09 47 48](https://user-images.githubusercontent.com/78007167/111182335-04365880-85d9-11eb-991a-6cec91ccf18f.jpg)
 
-# Noble-kernel
+# Kernel-Baker
 Custom Kernel maker for android. Super easy af.  use it &amp; GTFO
 This a dummy file,read the read.mkdn file:|
 
