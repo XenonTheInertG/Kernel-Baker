@@ -7,5 +7,5 @@
  - Clone this Folder to the kernel codes directory.
  - Run getgcc.sh and then build.sh
 
-## https://github.com/XenonTheInertG 
+
  
